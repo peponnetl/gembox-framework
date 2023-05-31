@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "MzjkypEYVscjYeawEC8zsOKVg5uy3j3Bcsu3G3bOK9KCkws29gwjCDd3kb84fCU+naVt3fthBVRUuDnAvM/9dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lpeponnet\\source\\repos\\PTC\\common-framework\\gembox-framework\\src\\GemBox.Document\\GemboxDocument.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lpeponnet\\.nuget\\packages\\gembox.document\\35.0.1363\\gembox.document.35.0.1363.nupkg.sha512",
+    "C:\\Users\\lpeponnet\\.nuget\\packages\\harfbuzzsharp\\2.8.2\\harfbuzzsharp.2.8.2.nupkg.sha512",
+    "C:\\Users\\lpeponnet\\.nuget\\packages\\harfbuzzsharp.nativeassets.macos\\2.8.2\\harfbuzzsharp.nativeassets.macos.2.8.2.nupkg.sha512",
+    "C:\\Users\\lpeponnet\\.nuget\\packages\\harfbuzzsharp.nativeassets.win32\\2.8.2\\harfbuzzsharp.nativeassets.win32.2.8.2.nupkg.sha512",
+    "C:\\Users\\lpeponnet\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\lpeponnet\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\portable.bouncycastle.1.8.9.nupkg.sha512",
+    "C:\\Users\\lpeponnet\\.nuget\\packages\\skiasharp\\2.88.3\\skiasharp.2.88.3.nupkg.sha512",
+    "C:\\Users\\lpeponnet\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.3\\skiasharp.nativeassets.macos.2.88.3.nupkg.sha512",
+    "C:\\Users\\lpeponnet\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.3\\skiasharp.nativeassets.win32.2.88.3.nupkg.sha512",
+    "C:\\Users\\lpeponnet\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\lpeponnet\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

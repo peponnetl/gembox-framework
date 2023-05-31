@@ -1,0 +1,17 @@
+C:\Users\lpeponnet\source\repos\PTC\common-framework\gembox\src\GemBox.Document\obj\Debug\net6.0\GemboxDocument.csproj.AssemblyReference.cache
+C:\Users\lpeponnet\source\repos\PTC\common-framework\gembox\src\GemBox.Document\obj\Debug\net6.0\GemboxDocument.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lpeponnet\source\repos\PTC\common-framework\gembox\src\GemBox.Document\obj\Debug\net6.0\GemboxDocument.AssemblyInfoInputs.cache
+C:\Users\lpeponnet\source\repos\PTC\common-framework\gembox\src\GemBox.Document\obj\Debug\net6.0\GemboxDocument.AssemblyInfo.cs
+C:\Users\lpeponnet\source\repos\PTC\common-framework\gembox\src\GemBox.Document\obj\Debug\net6.0\GemboxDocument.csproj.CoreCompileInputs.cache
+C:\Users\lpeponnet\source\repos\PTC\common-framework\gembox-framework\src\GemBox.Document\bin\Debug\net6.0\GemboxDocument.deps.json
+C:\Users\lpeponnet\source\repos\PTC\common-framework\gembox-framework\src\GemBox.Document\bin\Debug\net6.0\GemboxDocument.dll
+C:\Users\lpeponnet\source\repos\PTC\common-framework\gembox-framework\src\GemBox.Document\bin\Debug\net6.0\ref\GemboxDocument.dll
+C:\Users\lpeponnet\source\repos\PTC\common-framework\gembox-framework\src\GemBox.Document\bin\Debug\net6.0\GemboxDocument.pdb
+C:\Users\lpeponnet\source\repos\PTC\common-framework\gembox-framework\src\GemBox.Document\obj\Debug\net6.0\GemboxDocument.csproj.AssemblyReference.cache
+C:\Users\lpeponnet\source\repos\PTC\common-framework\gembox-framework\src\GemBox.Document\obj\Debug\net6.0\GemboxDocument.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lpeponnet\source\repos\PTC\common-framework\gembox-framework\src\GemBox.Document\obj\Debug\net6.0\GemboxDocument.AssemblyInfoInputs.cache
+C:\Users\lpeponnet\source\repos\PTC\common-framework\gembox-framework\src\GemBox.Document\obj\Debug\net6.0\GemboxDocument.AssemblyInfo.cs
+C:\Users\lpeponnet\source\repos\PTC\common-framework\gembox-framework\src\GemBox.Document\obj\Debug\net6.0\GemboxDocument.csproj.CoreCompileInputs.cache
+C:\Users\lpeponnet\source\repos\PTC\common-framework\gembox-framework\src\GemBox.Document\obj\Debug\net6.0\GemboxDocument.dll
+C:\Users\lpeponnet\source\repos\PTC\common-framework\gembox-framework\src\GemBox.Document\obj\Debug\net6.0\ref\GemboxDocument.dll
+C:\Users\lpeponnet\source\repos\PTC\common-framework\gembox-framework\src\GemBox.Document\obj\Debug\net6.0\GemboxDocument.pdb

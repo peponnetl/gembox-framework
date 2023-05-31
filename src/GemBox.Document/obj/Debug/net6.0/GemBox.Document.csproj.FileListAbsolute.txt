@@ -1,0 +1,5 @@
+C:\Users\lpeponnet\source\repos\PTC\common-framework\gembox\src\GemBox.Document\obj\Debug\net6.0\GemBox.Document.csproj.AssemblyReference.cache
+C:\Users\lpeponnet\source\repos\PTC\common-framework\gembox\src\GemBox.Document\obj\Debug\net6.0\GemBox.Document.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lpeponnet\source\repos\PTC\common-framework\gembox\src\GemBox.Document\obj\Debug\net6.0\GemBox.Document.AssemblyInfoInputs.cache
+C:\Users\lpeponnet\source\repos\PTC\common-framework\gembox\src\GemBox.Document\obj\Debug\net6.0\GemBox.Document.AssemblyInfo.cs
+C:\Users\lpeponnet\source\repos\PTC\common-framework\gembox\src\GemBox.Document\obj\Debug\net6.0\GemBox.Document.csproj.CoreCompileInputs.cache

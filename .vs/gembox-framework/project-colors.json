@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "964c8cbb-4d1f-4613-82c6-a2cce6a2e1d4": {
+      "ProjectGuid": "964c8cbb-4d1f-4613-82c6-a2cce6a2e1d4",
+      "DisplayName": "ClassLibrary1",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "ae9d1a4d-0e6c-41f5-aedf-27342af56f2d": {
+      "ProjectGuid": "ae9d1a4d-0e6c-41f5-aedf-27342af56f2d",
+      "DisplayName": "GemboxDocument",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
